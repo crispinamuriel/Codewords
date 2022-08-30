@@ -77,7 +77,7 @@ LinkedIn: https://www.linkedin.com/in/katherine-phillips-b8628250/
 
 Github: https://github.com/crispinamuriel
 
-LinkedIn: https://www.linkedin.com/in/crispinamuriel/
+LinkedIn: https://www.linkedin.com/in/crispinarmuriel/
 
 ## Tech Stack
 
